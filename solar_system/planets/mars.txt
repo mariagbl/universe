@@ -1,1 +1,2 @@
 Mars is dusty.
+Mars is blue.
